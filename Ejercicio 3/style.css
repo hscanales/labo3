@@ -1,0 +1,140 @@
+.sizes {
+	border-radius: 1em;
+	background-color: #e7e7e7;
+	color: black;
+	border: none;
+	padding: 1em 2em;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	
+}
+
+.sizes#peque{
+	font-size: 0.5em;
+}
+
+.sizes#normal{
+	font-size: 1em;
+}
+
+.sizes#grande{
+	font-size: 2em;
+}
+
+
+.color{
+	border-radius: 1em;
+	color: white;
+	border: none;
+	padding: 1em 2em;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 0.75em;
+}
+
+.color#esmeralda{
+	background-color: #5BD68D;
+}
+
+.color#cielo{
+	background-color: #5CACE2;
+}
+
+.color#amatista{
+	background-color: #AE7AC4;
+}
+
+.color#asfalto{
+	background-color: #5C6D7E;
+}
+
+.color#topazio{
+	background-color: #EA974E;
+}
+
+.color#rubi{
+	background-color: #eb6f62;
+}
+
+
+.bordeado{
+	background-color: white;
+	border-radius: 1em;
+	padding: 1em 2em;
+	text-align: center;
+	text-decoration:none;
+	display: inline-block;
+	font-size: 0.75em;
+}
+
+.bordeado#esmeralda2{
+	border: 0.2em solid #5BD68D;
+	color: #5BD68D;
+}
+
+.bordeado#cielo2{
+	color: #5CACE2;
+	border: 0.2em solid #5CACE2;
+}
+
+.bordeado#amatista2{
+	color: #AE7AC4;
+	border: 0.2em solid #AE7AC4;
+}
+
+.bordeado#asfalto2{
+	color: #5C6D7E;
+	border: 0.2em solid #5C6D7E;
+}
+
+.bordeado#topazio2{
+	color: #EA974E;
+	border: 0.2em solid #EA974E;
+}
+
+.bordeado#rubi2{
+	color: #eb6f62;
+	border: 0.2em solid #eb6f62;
+}
+
+.bordeado#simple{
+	color: grey;
+	border: 0.2em solid grey;
+}
+
+.combi{
+	border-radius: 1em;
+	padding: 1em 2em;
+	text-align: center;
+	text-decoration:none;
+	display: inline-block;
+	font-size: 0.75em;
+	border: none;
+}
+
+.combi#la{
+	background-color: #5C6D7E;
+	color: white;
+	font-size: 1.5em;
+}
+
+.combi#bc{
+	background-color: white;
+	color: #5CACE2; 
+	border: 0.2em solid #5CACE2;
+}
+
+.combi#pe{
+	font-size: 0.60em;
+	color: white;
+	background-color: #5BD68D;
+}
+
+.combi#br{
+	font-size: 1.5em;
+	color: #eb6f62;
+	border: 0.2em solid #eb6f62;
+	background-color: white;
+}
